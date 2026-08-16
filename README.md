@@ -1,7 +1,7 @@
 # Deep-Learning-Project
 
 # Start Here
-> **Start Here:** [Click here to open the Main Project Notebook](./Project.ipynb)
+> **Start Here:** [Click here to open the Main Project Notebook](./Paper.ipynb)
 
 ### Setup & Installation
 Environment: Python 3.8+, PyTorch (CUDA-compatible).
